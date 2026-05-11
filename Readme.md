@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hey,+I'm+Mayank_Saini!+👋&fontSize=35&fontColor=ffffff&fontAlignY=40" />
 
 
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED HEADER BANNER                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -40,6 +41,10 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp; About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+Curiosity+into+Code;Aspiring+Full-Stack+Developer;Clean+Code+Enthusiast" />
+</p>
+
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
 
@@ -70,11 +75,10 @@ public class MayankSaini {
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+Curiosity+into+Code;Aspiring+Full-Stack+Developer;Clean+Code+Enthusiast" />
-</p>
 
 ### 🌟 Quick Facts
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
 
 | | |
 |---|---|
@@ -83,7 +87,7 @@ public class MayankSaini {
 | 🌱 | Actively learning: **System Design**, **Advanced DSA**, **Cloud & DevOps** |
 | 🎯 | Goal: **SDE at a Top Product-Based Company** |
 | ⚡ | Fun fact: I turn coffee ☕ into code and problems into products |
-| 📫 | Reach me at: **mayanksaini1036@gmail.com** |
+| 📫 | Reach me at: **mayanksaini3006@gmail.com** |
 
 ---
 
@@ -171,11 +175,8 @@ public class MayankSaini {
 <br/>
 
 ### 🏗️ What I'm Building
-
 | Project | Stack | Status | Description |
 |--------|-------|--------|-------------|
-| 🏦 **Simple Banking System** | Java, OOP, File I/O | ✅ Complete | Console-based banking app with accounts, deposits, withdrawals |
-| ☁️ **Salesforce Clone** | React, Node.js, Express, MongoDB | 🔨 In Progress | Full-stack CRM with auth, leads & dashboard |
 | 🐳 **Docker Practice Repo** | Docker | ✅ Active | All docker commands + cheat sheet collection |
 | 🤖 **Algo Trading Bot** | TypeScript | 🧪 Experimental | Automated trading strategy engine |
 
@@ -296,10 +297,10 @@ public class MayankSaini {
 </a>
 &nbsp;
 <a href="mailto:mayanksaini3006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mayanksaini1036@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-mayanksaini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/mayank-saini-1036">
+<a href="https://www.linkedin.com/in/mayank-saini-4860a4210/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -333,4 +334,5 @@ public class MayankSaini {
 
 *⭐ Star my repositories if you find them helpful! It motivates me to keep building.*
 
+![GitHub GIF](githubgif.gif)
 </div>
