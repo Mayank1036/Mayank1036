@@ -68,7 +68,11 @@ public class MayankSaini {
 }
 ```
 
-<br clear="right"/>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+Curiosity+into+Code;Aspiring+Full-Stack+Developer;Clean+Code+Enthusiast" />
+</p>
 
 ### 🌟 Quick Facts
 
@@ -158,29 +162,11 @@ public class MayankSaini {
 
 ## 🚀 &nbsp; Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/Mayank1036/Aetherium-VI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank1036&repo=Aetherium-VI&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=39ff14" />
-</a>
-<a href="https://github.com/Mayank1036/Snipr-X-The-Algo-Trading-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank1036&repo=Snipr-X-The-Algo-Trading-Bot&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=39ff14" />
-</a>
-
-</div>
 
 <br/>
 
-<div align="center">
 
-<a href="https://github.com/Mayank1036/Docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank1036&repo=Docker&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=39ff14" />
-</a>
-<a href="https://github.com/Mayank1036/Apna_college_Demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank1036&repo=Apna_college_Demo&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=39ff14" />
-</a>
-
-</div>
 
 <br/>
 
@@ -203,9 +189,14 @@ public class MayankSaini {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mayank1036&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=39ff14&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&hide_border=false&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank1036&layout=compact&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=8" height="180"/>
+
+<p align="center">
+    
+</p>
+<a href="https://github.com/Mayank1036/github-readme-stats"><img alt="Mayank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mayank1036&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+<br>
 
 </div>
 
@@ -304,7 +295,7 @@ public class MayankSaini {
   <img src="https://img.shields.io/badge/GitHub-Mayank1036-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:mayanksaini1036@gmail.com">
+<a href="mailto:mayanksaini3006@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-mayanksaini1036@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
