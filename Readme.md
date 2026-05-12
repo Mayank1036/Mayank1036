@@ -161,28 +161,6 @@ public class MayankSaini {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp; Featured Projects
-
-
-
-<br/>
-
-
-
-<br/>
-
-### 🏗️ What I'm Building
-| Project | Stack | Status | Description |
-|--------|-------|--------|-------------|
-| 🐳 **Docker Practice Repo** | Docker | ✅ Active | All docker commands + cheat sheet collection |
-| 🤖 **Algo Trading Bot** | TypeScript | 🧪 Experimental | Automated trading strategy engine |
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    GITHUB STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -201,8 +179,6 @@ public class MayankSaini {
 
 </div>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    STREAK STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -214,21 +190,6 @@ public class MayankSaini {
 <img src="https://streak-stats.demolab.com?user=Mayank1036&theme=tokyonight&border=00f5ff&ring=39ff14&fire=00f5ff&currStreakLabel=39ff14&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117&stroke=00f5ff" width="700"/>
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mayank1036&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
-
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -240,30 +201,6 @@ public class MayankSaini {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank1036&theme=react-dark&bg_color=0d1117&color=00f5ff&line=39ff14&point=00f5ff&area=true&area_color=00f5ff&hide_border=false&border_color=00f5ff" width="100%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CODING QUOTE                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 💬 &nbsp; Dev Philosophy
-
-<div align="center">
-
-> *"Code is not just what I write — it's how I solve what matters."*
->
-> — Mayank Saini
-
-</div>
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
