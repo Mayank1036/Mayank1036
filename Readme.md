@@ -58,9 +58,10 @@ public class MayankSaini {
 
     private String[] currentFocus = {
         "Java Backend Development",
+        "Spring Boot & REST APIs",
         "Data Structures & Algorithms",
-        "Machine Learning & AI",
-        "Building Scalable Systems"
+        "System Design",
+        "AI Applications"
     };
 
     private String goal =
@@ -83,8 +84,8 @@ public class MayankSaini {
 | | |
 |---|---|
 | 🎓 | **BTech in AI & Data Science** — 2nd Year |
-| 🔭 | Currently building: **Simple Banking System** & **Salesforce Clone** |
-| 🌱 | Actively learning: **System Design**, **Advanced DSA**, **Cloud & DevOps** |
+| 🔭 | **Currently Building**<br>• Java Spring Boot Backend Projects<br>• AI-powered Applications<br>• Packet Analyzer (C++) |
+| 🌱 | **Actively Learning**<br>• Spring Boot<br>• Spring AI<br>• System Design<br>• Docker<br>• Cloud |
 | 🎯 | Goal: **SDE at a Top Product-Based Company** |
 | ⚡ | Fun fact: I turn coffee ☕ into code and problems into products |
 | 📫 | Reach me at: **mayanksaini3006@gmail.com** |
@@ -104,6 +105,18 @@ public class MayankSaini {
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### ☕ Java Backend
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
@@ -113,19 +126,26 @@ public class MayankSaini {
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
-### ⚙️ Backend & Tools
+### 🗄️ Databases
 <div align="center">
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### ☁️ DevOps & Tools
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -133,30 +153,12 @@ public class MayankSaini {
 ### 🤖 AI & Data Science
 <div align="center">
 
-![Python](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CURRENT GOALS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🎯 &nbsp; 2025–2026 Roadmap
-
-```
-🔲  Master Data Structures & Algorithms (LeetCode grind)
-🔲  Build 3+ production-level backend projects in Java
-🔲  Land a Software Engineering Internship
-🔲  Crack interviews at product-based companies
-🔲  Contribute to Open Source projects
-🔲  Deploy ML models to real-world applications
-🔲  Learn System Design & Distributed Systems
-```
 
 ---
 
@@ -212,10 +214,12 @@ public class MayankSaini {
 
 <div align="center">
 
-![AI/ML](https://img.shields.io/badge/🤖_AI_&_ML-Exploring-00f5ff?style=for-the-badge&labelColor=0d1117)
-![Advanced DSA](https://img.shields.io/badge/⚡_Advanced_DSA-Grinding-39ff14?style=for-the-badge&labelColor=0d1117)
-![System Design](https://img.shields.io/badge/🏗_System_Design-Learning-ff6b35?style=for-the-badge&labelColor=0d1117)
-![Cloud & DevOps](https://img.shields.io/badge/☁️_Cloud_&_DevOps-Starting-a855f7?style=for-the-badge&labelColor=0d1117)
+![Java Backend](https://img.shields.io/badge/☕_Java_Backend-Building-00f5ff?style=for-the-badge&labelColor=0d1117)
+![Spring Boot](https://img.shields.io/badge/🍃_Spring_Boot-Building-39ff14?style=for-the-badge&labelColor=0d1117)
+![Spring AI](https://img.shields.io/badge/🤖_Spring_AI-Exploring-ff6b35?style=for-the-badge&labelColor=0d1117)
+![System Design](https://img.shields.io/badge/🏗_System_Design-Learning-a855f7?style=for-the-badge&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/🐳_Docker-Learning-00aaff?style=for-the-badge&labelColor=0d1117)
+![Cloud](https://img.shields.io/badge/☁️_Cloud-Starting-ffd700?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -265,11 +269,4 @@ public class MayankSaini {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Solving%20today%27s%20problems%2C%20building%20tomorrow%27s%20solutions&fontSize=14&fontColor=00f5ff&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
-*⭐ Star my repositories if you find them helpful! It motivates me to keep building.*
-
-![GitHub GIF](githubgif.gif)
 </div>
