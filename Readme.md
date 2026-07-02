@@ -28,9 +28,41 @@
 <!--                    PROFILE BADGES                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mayank1036&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Mayank1036?style=for-the-badge&color=39ff14&labelColor=0d1117&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/Mayank1036?style=for-the-badge&color=00f5ff&labelColor=0d1117&label=TOTAL+STARS)
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT WITH ME                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌐 &nbsp; Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Mayank1036">
+  <img src="https://img.shields.io/badge/GitHub-Mayank1036-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mayanksaini3006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mayanksaini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mayank-saini-4860a4210/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+💡 Open to: Internships · Collaborations · Open Source · Hackathons
+📩 Response time: Usually within 24 hours
+🤝 Let's build something amazing together!
+```
+
+</div>
+
+---
 
 </div>
 
@@ -166,20 +198,18 @@ public class MayankSaini {
 <!--                    GITHUB STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp; GitHub Stats
-
-<div align="center">
-
+<!---## 📊 &nbsp; GitHub Stats
 
 <p align="center">
-    
-</p>
-<a href="https://github.com/Mayank1036/github-readme-stats"><img alt="Mayank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mayank1036&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
-<br>
-
-</div>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mayank1036&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank1036&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
+    height="180"
+  />
+</p>--->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    STREAK STATS                            -->
@@ -192,7 +222,6 @@ public class MayankSaini {
 <img src="https://streak-stats.demolab.com?user=Mayank1036&theme=tokyonight&border=00f5ff&ring=39ff14&fire=00f5ff&currStreakLabel=39ff14&sideLabels=c9d1d9&dates=c9d1d9&background=0d1117&stroke=00f5ff" width="700"/>
 
 </div>
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CONTRIBUTION GRAPH                      -->
@@ -204,62 +233,12 @@ public class MayankSaini {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank1036&theme=react-dark&bg_color=0d1117&color=00f5ff&line=39ff14&point=00f5ff&area=true&area_color=00f5ff&hide_border=false&border_color=00f5ff" width="100%"/>
 
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CURRENTLY EXPLORING                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🔬 &nbsp; Currently Exploring
 
-<div align="center">
-
-![Java Backend](https://img.shields.io/badge/☕_Java_Backend-Building-00f5ff?style=for-the-badge&labelColor=0d1117)
-![Spring Boot](https://img.shields.io/badge/🍃_Spring_Boot-Building-39ff14?style=for-the-badge&labelColor=0d1117)
-![Spring AI](https://img.shields.io/badge/🤖_Spring_AI-Exploring-ff6b35?style=for-the-badge&labelColor=0d1117)
-![System Design](https://img.shields.io/badge/🏗_System_Design-Learning-a855f7?style=for-the-badge&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/🐳_Docker-Learning-00aaff?style=for-the-badge&labelColor=0d1117)
-![Cloud](https://img.shields.io/badge/☁️_Cloud-Starting-ffd700?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT WITH ME                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🌐 &nbsp; Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Mayank1036">
-  <img src="https://img.shields.io/badge/GitHub-Mayank1036-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:mayanksaini3006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mayanksaini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mayank-saini-4860a4210/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-💡 Open to: Internships · Collaborations · Open Source · Hackathons
-📩 Response time: Usually within 24 hours
-🤝 Let's build something amazing together!
-```
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED FOOTER                         -->
